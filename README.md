@@ -4,7 +4,7 @@ Implementation of Classic Partial Alignments based on ILP-based A* algorithm in 
 
 ## Usage
 
-To align a model and log, first make sure there is a `results/` folder in <directory-path>, and run:
+To align a model and log, first make sure there is a `results/` folder in `directory-path`, and run:
 
 ```
 python main.py classic-alignments -p <directory-path> -l <log-name> -m <model-name>
